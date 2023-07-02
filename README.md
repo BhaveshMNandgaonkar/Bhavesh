@@ -1,6 +1,6 @@
 <html>
 <head>
-  <title>Bhavesh Nandgaonkar - Resume</title>
+  <title>Bhavesh M Nandgaonkar - Resume</title>
 </head>
 <body>
   <header>
