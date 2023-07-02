@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
   <title>Bhavesh Nandgaonkar - Resume</title>
@@ -11,6 +10,11 @@
     <h2>Career Role:</h2>
     <p>Professional Land Surveyor | GIS Analyst | UAV Pilot | LiDAR Operator</p>
   </header>
+
+  <section>
+    <h3>Personal Details</h3>
+    <p>Date of Birth: 21st March 1998</p>
+  </section>
 
   <section>
     <h3>Professional Summary</h3>
